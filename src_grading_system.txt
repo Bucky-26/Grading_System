@@ -1,0 +1,13 @@
+H:\BSIT_1stYear\Grading_System\src\d.java
+H:\BSIT_1stYear\Grading_System\src\Grading_System.java
+H:\BSIT_1stYear\Grading_System\src\data\funcc.java
+H:\BSIT_1stYear\Grading_System\src\data\models\comIntro.java
+H:\BSIT_1stYear\Grading_System\src\data\models\modernMath.java
+H:\BSIT_1stYear\Grading_System\src\data\models\nstp1.java
+H:\BSIT_1stYear\Grading_System\src\data\models\PE.java
+H:\BSIT_1stYear\Grading_System\src\data\models\precal.java
+H:\BSIT_1stYear\Grading_System\src\data\models\prog1.java
+H:\BSIT_1stYear\Grading_System\src\data\models\RnPh.java
+H:\BSIT_1stYear\Grading_System\src\data\models\soc.java
+H:\BSIT_1stYear\Grading_System\src\data\models\userdata.java
+H:\BSIT_1stYear\Grading_System\src\data\models\Uts.java

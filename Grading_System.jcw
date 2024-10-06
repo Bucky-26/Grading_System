@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Grading_System</label>
+	</settings>
+	<users>
+		<user>
+			<path>Grading_System.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Grading_System.jcp</path>
+		</project>
+	</projects>
+</workspace>
